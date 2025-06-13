@@ -1,0 +1,5 @@
+{
+  "ProxySettings": "socks5://localhost:9090",
+  "EnableAdBlock": true,
+  "EnableDiscordRPC": true
+}
